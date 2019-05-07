@@ -3,8 +3,12 @@ package com.lessons;
 public class yar {
 
     public static void main(String[] args) {
-        // write your code here
-        System.out.println("Hello Java!");
+
+    for (int i = 1; i<17; i++)
+        {
+            System.out.println(i+"  Хочешь - решай задачи, не хочешь - решай нехотя");
+        }
     }
+
 
 }
